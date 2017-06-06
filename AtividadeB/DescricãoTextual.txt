@@ -1,0 +1,13 @@
+O FaceBook é uma plataforma de relacionamento multiusuario, o qual pode compartilhar eventos do seu cotidiano.
+O ferramenta permite participação de um usuário em vários grupos, assim como curtir e seguir várias páginas,
+assim como manter uma lista de amizades e fazer diversas publicações que podem conter arquivos multimidia.
+
+É possivel ter não só uma conta de usuário comum, mas também uma página que pode ser curtida por usuarios e outras paginas,
+Cada usuario tem um perfil,
+Um usuario pode recebe varias solicitacões de amizades assim como envia-las.
+Usuario pode se relacionar com uma publicação através de uma curtida e comentários, que por sua vez podem ter uma lista de respostas
+Cada curtida é feita por um usuário e tem um tipo.
+
+Cada pagina possui uma lista de curtidas, assim como uma lista de publicações.
+Todos as publicacoes são dispostas em uma linha do tempo do usuario, ordenadas pela ultima postada,
+Na linha do tempo é possivel ver suas publicacões, dos seus amigos e das paginas que voce segue.
